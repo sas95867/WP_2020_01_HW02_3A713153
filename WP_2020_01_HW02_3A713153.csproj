@@ -52,6 +52,7 @@
     <Compile Include="frmGame.Designer.cs">
       <DependentUpon>frmGame.cs</DependentUpon>
     </Compile>
+    <Compile Include="poker.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmGame.resx">
@@ -81,7 +82,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="doc1\設計圖_HW.png" />
+    <Content Include="設計圖\設計圖_HW.png" />
     <Content Include="res\001.png" />
     <Content Include="res\002.png" />
     <Content Include="res\003.png" />
